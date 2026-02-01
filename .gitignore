@@ -16,3 +16,6 @@ __pycache__/
 # Generated
 build/
 dist/
+results.json
+channel_selection.json
+iptv_monitor.db
